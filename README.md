@@ -1,7 +1,7 @@
 ### Olá, sejam bem-vindos ao meu perfil! 👋
 
 - 🎓 Sou graduando em Análise e Desenvolvimento de Sistemas
-- 🎯 Estou atualmente focando os estudos em desdenvolvimento Back-end com Java e NodeJS
+- 🎯 Estou atualmente focando os estudos em desdnvolvimento Back-end com Java e NodeJS
 - 📧 Falem comigo no email: marcosgabriel318@hotmail.com
 
 ### Fiquem à vontade 😁
