@@ -1,5 +1,6 @@
 ### Olá, sejam bem-vindos ao meu perfil! 👋
 
+- Apaixonado por tecnologia e em constante aprendizado! 
 - 📧 Falem comigo no email: marcosgabriel.mg318@gmail.com
 
 ### Fiquem à vontade 😁
