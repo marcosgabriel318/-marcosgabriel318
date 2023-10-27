@@ -1,8 +1,6 @@
 ### Olá, sejam bem-vindos ao meu perfil! 👋
 
-- 🎓 Sou graduando em Análise e Desenvolvimento de Sistemas
-- 🎯 Estou atualmente focando os estudos em desenvolvimento Back-end com Java e NodeJS
-- 📧 Falem comigo no email: marcosgabriel318@hotmail.com
+- 📧 Falem comigo no email: marcosgabriel.mg318@gmail.com
 
 ### Fiquem à vontade 😁
 
