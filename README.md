@@ -1,8 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=header"/>
 
-### Olá, sejam bem-vindos ao meu perfil! 👋
+### Olá, seja bem-vindo ao meu perfil! 👋
 
-- Apaixonado por tecnologia e em constante aprendizado! 
+- Sou Desenvolver FullStack, apaixonado por tecnologia e em constante aprendizado! 
+- Atualmente estou aprimorando minhas habilidades em Back-End
 - 📧 Falem comigo no email: marcosgabriel.mg318@gmail.com
 
 ### Fiquem à vontade 😁
