@@ -2,8 +2,8 @@
 
 ### Olá, seja bem-vindo ao meu perfil! 👋
 
-- Sou Desenvolver FullStack, apaixonado por tecnologia e em constante aprendizado! 
-- Atualmente estou aprimorando minhas habilidades em Back-End
+- Sou Desenvolvedor FullStack, apaixonado por tecnologia e em constante aprendizado! 
+- Atualmente estou aprimorando minhas habilidades em Back-End utilizando Java e NodeJS
 - 📧 Falem comigo no email: marcosgabriel.mg318@gmail.com
 
 ### Fiquem à vontade 😁
