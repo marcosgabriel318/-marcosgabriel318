@@ -1,35 +1,67 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=header"/>
-
-### Olá, seja bem-vindo ao meu perfil! 👋
-
-- Sou Desenvolvedor FullStack, apaixonado por tecnologia e em constante aprendizado! 
-- Atualmente estou aprimorando minhas habilidades em Back-End utilizando Java e NodeJS
-- 📧 Falem comigo no email: marcosgabriel.mg318@gmail.com
-
-### Fiquem à vontade 😁
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=marcosgabriel318&show_icons=true&count_private=true&hide_border=true&title_color=4682B4&icon_color=4682B4&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosgabriel318&layout=compact&hide_border=true&title_color=4682B4&text_color=4682B4&bg_color=0d1117" />
-</div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Marcos-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img align="center" alt="Marcos-JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img align="center" alt="Marcos-NodeJs" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-</div>
-  
-##
-
 <div>
-  <a href="https://www.linkedin.com/in/marcos-gabriel318/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+  <div align="left">
+    <img src="https://github.com/user-attachments/assets/8cfa9e87-5086-4d29-a6a0-06e57d83fd57" height="120" alt="image profile" />
+    <h1 align="left">Hey👋🏾, What's up?</h1>
+    
+###
+  
+  <p align="left">My name is Marcos Gabriel and I'm a Back-end Developer from Brazil</p>
+  
+###  
+  </div>
 </div>
 
-<div align="center">
-  <br>
-  <p align="centre"><b>Visitors Count</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{marcosgabriel318}/count.svg" /></p> 
-  <br>
+
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since 2016<br>📚 I'm currently learning NodeJS, Docker, PostegreSQL<br>🎯 Goals: Become a software engineer<br>🎲 Fun fact: Passionate about piano and anime</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
 </div>
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=footer"/>
+
+###
+
+<h2 align="left">My tools and frameworks</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+</div>
+
+###
