@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2016<br>📚 I'm currently learning NodeJS, Docker, PostegreSQL<br>🎯 Goals: Become a software engineer<br>🎲 Fun fact: Passionate about piano and anime</p>
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning NodeJS, Docker, PostegreSQL<br>🎯 Goals: Become a software engineer<br>🎲 Fun fact: Passionate about piano and anime</p>
 
 <h2 align="left">I code with</h2>
 
